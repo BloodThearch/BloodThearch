@@ -1,7 +1,6 @@
 <h1 align="center">Hi ✨ I'm Gautam Jain</h1>
 <h3 align="center">Tech-savvy engineer and cybersecurity enthusiast crafting AI solutions for a smarter, safer world.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
